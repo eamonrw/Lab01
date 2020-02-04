@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab01</string>
+    <string name="text_box_text">0</string>
+    <string name="increment_button_text">Increment</string>
+    <string name="bg_color_button_text">Background Colors</string>
+    <string name="color_button_text">Button Colors</string>
+</resources>
